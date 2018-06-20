@@ -1,4 +1,4 @@
-﻿using Magazine_Store.Models;
+using Magazine_Store.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -17,14 +17,21 @@ namespace Magazine_Store
             Console.WriteLine("Token: " + token);
 
             //get categories
+            Console.Write("Get categories... ");
             Categories categories = getCategories();
+            Console.WriteLine("done.");
+
 
             //get subscribers
+            Console.Write("Get subscribers... ");
             Subscribers subscribers = getSubscribers();
+            Console.WriteLine("done.");
 
             //get all magazines from each category
+            Console.Write("Get magazines... ");
             List<Magazine> magazines = getAllMagazines(categories.data);
-            
+            Console.WriteLine("done.");
+
             //for subscribers who match all categories
             SubscribersList matchedSubscribers = getMatchedSubscribers(subscribers, categories, magazines);
             
@@ -165,8 +172,5 @@ namespace Magazine_Store
                 throw new Exception("failed to get subscribers");
             }
         }
-
-
-
     }
 }
