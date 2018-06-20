@@ -1,0 +1,10 @@
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\bin\Debug\Magazine Store.exe.config
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\bin\Debug\Magazine Store.exe
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\bin\Debug\Magazine Store.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\bin\Debug\Newtonsoft.Json.dll
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\bin\Debug\Newtonsoft.Json.xml
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\obj\Debug\Magazine Store.csprojResolveAssemblyReference.cache
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\obj\Debug\Magazine Store.exe
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\obj\Debug\Magazine Store.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\aaron\documents\visual studio 2015\Projects\Magazine Store\Magazine Store\bin\Debug\System.Net.Http.Formatting.xml
